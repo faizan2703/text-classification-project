@@ -1,9 +1,3 @@
-Here is a **professional, clean, GitHub-ready README.md** for your project where you used **IMDB text classification with TF-IDF, BoW, Random Forest, Gaussian NB, and Multinomial NB** and achieved **85% accuracy**.
-
-You can copy-paste this directly into your **README.md** file.
-
----
-
 # 📘 **IMDB Movie Reviews – Text Classification**
 
 This project builds an end-to-end **sentiment-analysis** pipeline using the **IMDB Movie Reviews Dataset**.
